@@ -38,7 +38,7 @@
   }
   
   .ce-chat-unread-dot {
-    background-color: rgb(209, 34, 34) !important;
+    background-color: rgb(28, 51, 180) !important;
   }
   
   
@@ -53,7 +53,7 @@
   }
   
   .ce-primary-button {
-    background-color: #3b1064 !important;
+    background-color: #0c207a !important;
   }
   
   .ce-message-date-text {
@@ -61,11 +61,11 @@
   }
   
   .ce-my-message-bubble {
-    background-color: #300a46 !important;
+    background-color: #0c207a !important;
   }
   
   .ce-my-message-sinding-bubble {
-    background-color: #178da1 !important;
+    background-color: #0f356e !important;
   }
   
   .ce-my-message-timestamp {
@@ -77,7 +77,7 @@
   }
   
   #ce-send-message-button {
-    background-color: #3b1064 !important;
+    background-color: #0c207a !important;
   }
   
   #ce-ice-breaker-gif {
@@ -102,7 +102,7 @@
     color: black !important;
   }
   #msg-textarea::placeholder {
-    color: hsla(268, 74%, 43%, 0.568) !important;
+    color: hsla(241, 76%, 41%, 0.568) !important;
   }
   
   #ce-upload-document-icon {
@@ -118,11 +118,11 @@
   }
   
   .ce-their-message-sender {
-    color: hsla(268, 39%, 26%, 0.568) !important;
+    color: hsla(231, 62%, 36%, 0.568) !important;
   }
   
   .ce-their-message-bubble {
-    background-color: #162e72 !important;
+    background-color: #4b5d91 !important;
     color: rgba(24, 87, 124, 0.705) !important;
   }
  
@@ -149,13 +149,13 @@
   }
   
   .ce-person-text {
-    color: hsla(216, 57%, 30%, 0.568);
+    color: hsla(216, 71%, 19%, 0.568);
   }
   
   .ce-danger-button {
     background-color: #d8d7d7 !important;
-    border: 1px solid #3531b3 !important;
-    color: #33309c !important;
+    border: 1px solid #224c83 !important;
+    color: #1e4fac !important;
   }
   
   .ce-autocomplete-close {
